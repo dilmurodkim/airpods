@@ -184,7 +184,7 @@ async def on_startup(dp):
     print("✅ Webhook o‘rnatildi:", WEBHOOK_URL)
 
 async def on_shutdown(dp):
-#    print("❌ Webhook o‘chirildi")
+    print("❌ Webhook o‘chirildi")
 
 if __name__ == '__main__':
     start_webhook(
