@@ -90,29 +90,29 @@ grammar_2A = {
     "2A_34": "N+밖에::물밖에 없어요. (mulbakke eopseoyo) – Faqat suv bor, boshqa narsa yo‘q."
 }
 grammar_2B = {
-2B kitobi gramatikalari tez orada qo'shiladi!!
+"2B kitobi gramatikalari tez orada qo'shiladi!!"
 }
 grammar_3A = {
-3A kitobi gramatikalari tez orada qo'shiladi!!
+"3A kitobi gramatikalari tez orada qo'shiladi!!"
 }
 grammar_3B = {
-3B kitobi gramatikalari tez orada qo'shiladi!!  
+"3B kitobi gramatikalari tez orada qo'shiladi!!"  
 }
 grammar_4A = {
-4A kitobi gramatikalari tez orada qo'shiladi!!  
+"4A kitobi gramatikalari tez orada qo'shiladi!!"  
 }
 grammar_4B = {
-4B kitobi gramatikalari tez orada qo'shiladi!!  
+"4B kitobi gramatikalari tez orada qo'shiladi!!"  
 }
 grammar_5A = {
-5A kitobi gramatikalari tez orada qo'shiladi!!  
+"5A kitobi gramatikalari tez orada qo'shiladi!!"  
 }
 grammar_5B = {
-5B kitobi gramatikalari tez orada qo'shiladi!! 
+"5B kitobi gramatikalari tez orada qo'shiladi!!" 
 }
 grammar_6A = { 
-6A kitobi gramatikalari tez orada qo'shiladi!!
+"6A kitobi gramatikalari tez orada qo'shiladi!!"
 }
 grammar_6B = {
-6B kitobi gramatikalari tez orada qo'shiladi!!
+"6B kitobi gramatikalari tez orada qo'shiladi!!"
 }
