@@ -183,7 +183,7 @@ async def on_startup(dp):
     await bot.set_webhook(WEBHOOK_URL)
     print("✅ Webhook o‘rnatildi:", WEBHOOK_URL)
 
-#async def on_shutdown(dp):
+async def on_shutdown(dp):
 #    print("❌ Webhook o‘chirildi")
 
 if __name__ == '__main__':
