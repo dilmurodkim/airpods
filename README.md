@@ -1,4 +1,4 @@
-import logging
+vimport logging
 import os
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
@@ -6,12 +6,7 @@ from aiogram.utils.executor import start_webhook
 from dotenv import load_dotenv
 
 from data.hangeul import hangeul_letters_data
-from data.grammar import (
-    grammar_1A, grammar_1B, grammar_2A, grammar_2B,
-    grammar_3A, grammar_3B, grammar_4A, grammar_4B,
-    grammar_5A, grammar_5B, grammar_6A, grammar_6B
-)
-
+from data.grammar import grammar_1A, grammar_1B, grammar_2A, grammar_2B ,grammar_3A, grammar_3B, grammar_4A, grammar_4B, grammar_5A, grammar_5B, grammar_6A, grammar_6B
 load_dotenv()
 
 API_TOKEN = os.getenv("BOT_TOKEN")
